@@ -1,3 +1,4 @@
+<<<<<<< start-markdown
 # My H1 Header
 
 ## My H2 Header
